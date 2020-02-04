@@ -74,7 +74,7 @@ On the top window, you have a text editor, where you can make all the changes in
 
 In order to clone this repository, you can use the following command:
 
-    $ git clone https://github.com/bemer/containers-on-aws-workshop.git
+    $ git clone https://github.com/w00fx/containers-on-aws-workshop
 
 After cloning the repository, you will see that a new folder called `containers-on-aws-workshop` will be created. All the content will be available inside this folder.
 
@@ -191,7 +191,7 @@ After completing the setup of your computer, you must create the VPC infrastrutc
 
 In order to clone this repository, you can use the following command:
 
-    $ git clone https://github.com/bemer/containers-on-aws-workshop.git
+    $ git clone https://github.com/w00fx/containers-on-aws-workshop
 
 After cloning the repository, you will see that a new folder called `containers-on-aws-workshop` will be created. All the content will be available inside this folder.
 
