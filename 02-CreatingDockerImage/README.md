@@ -53,7 +53,7 @@ The following steps should be executed on your own computer or Cloud9 instance, 
 
 If you haven't executed the `git clone` command present in the [Setup Environment](/01-SetupEnvironment#5-cloning-the-workshop-repository) chapter, do it now using the following command:
 
-    $ git clone https://github.com/bemer/containers-on-aws-workshop.git
+    $ git clone https://github.com/w00fx/containers-on-aws-workshop.git
 
 Now we are going to build and test our containers locally.  If you've never worked with Docker before, there are a few basic commands that we'll use in this workshop, but you can find a more thorough list in the [Docker "Getting Started" documentation](https://docs.docker.com/engine/getstarted/).
 
