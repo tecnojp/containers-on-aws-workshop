@@ -111,8 +111,8 @@ After generating load against your application, you should be able to see it sca
 [back-to-menu]: https://github.com/bemer/containers-on-aws-workshop
 
 
-[us-east-1-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=containers-workshop-load-testing&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/load_test_instance.json
-[us-east-2-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/new?stackName=containers-workshop-load-testing&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/load_test_instance.json
-[us-west-2-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=containers-workshop-load-testing&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/load_test_instance.json
-[eu-west-1-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=containers-workshop-load-testing&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/load_test_instance.json
-[ap-southeast-1-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/new?stackName=containers-workshop-load-testing&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/load_test_instance.json
+[us-east-1-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=containers-workshop-load-testing&templateURL= https://raphael-bucket-s3.s3-sa-east-1.amazonaws.com/workshop-containers/load_test_instance.json
+[us-east-2-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/new?stackName=containers-workshop-load-testing&templateURL= https://raphael-bucket-s3.s3-sa-east-1.amazonaws.com/workshop-containers/load_test_instance.json
+[us-west-2-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=containers-workshop-load-testing&templateURL= https://raphael-bucket-s3.s3-sa-east-1.amazonaws.com/workshop-containers/load_test_instance.json
+[eu-west-1-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=containers-workshop-load-testing&templateURL= https://raphael-bucket-s3.s3-sa-east-1.amazonaws.com/workshop-containers/load_test_instance.json
+[ap-southeast-1-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/new?stackName=containers-workshop-load-testing&templateURL= https://raphael-bucket-s3.s3-sa-east-1.amazonaws.com/workshop-containers/load_test_instance.json
