@@ -41,6 +41,8 @@ In order to deploy the infrastructure to your account, you can use one of the fo
 |[![launch stach](/01-EnvironmentSetup/images/launch_stack_button.png)][us-west-2-with-cloud9] | US West (Oregon)|
 |[![launch stach](/01-EnvironmentSetup/images/launch_stack_button.png)][eu-west-1-with-cloud9] | EU (Ireland)|
 |[![launch stach](/01-EnvironmentSetup/images/launch_stack_button.png)][ap-southeast-1-with-cloud9] | Asia Pacific (Singapore)|
+|[![launch stach](/01-EnvironmentSetup/images/launch_stack_button.png)][sa-east-1-with-cloud9] | São Paulo|
+|[![launch stach](/01-EnvironmentSetup/images/launch_stack_button.png)][ap-south-1-with-cloud9] | Mumbai|
 
 In the CloudFormation screen, add your name under the resource naming. This is going to add your name in front of the names to all the resources created, so in case you are running the workshop with someone else in the same account, you will be able to know your resources.
 
@@ -187,6 +189,7 @@ After completing the setup of your computer, you must create the VPC infrastrutc
 |[![launch stach](/01-EnvironmentSetup/images/launch_stack_button.png)][ap-southeast-1-without-cloud9] | Asia Pacific (Singapore)|
 
 
+
 ### 6.7 Cloning the workshop repository
 
 In order to clone this repository, you can use the following command:
@@ -206,6 +209,8 @@ After cloning the repository, you will see that a new folder called `containers-
 [us-east-2-with-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-with-cloud9.yaml
 [us-west-2-with-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-with-cloud9.yaml
 [eu-west-1-with-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-with-cloud9.yaml
+[sa-east-1-with-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=sa-east-1#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-with-cloud9.yaml
+[ap-south-1-with-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=ap-south-1#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-with-cloud9.yaml
 [ap-southeast-1-with-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-with-cloud9.yaml
 [us-east-1-without-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-without-cloud9.yaml
 [us-east-2-without-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-without-cloud9.yaml
